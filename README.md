@@ -37,7 +37,7 @@ The sidebar is on the left and the main content is on the right.
 
 
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/a18348da-a67f-45c0-b4ca-296544b9a974" />
-
+<img width="442" height="617" alt="image" src="https://github.com/user-attachments/assets/36642df9-1c0e-4dd7-95cb-001afcdcc44f" />
 
 ---
 
@@ -49,6 +49,8 @@ When I move the mouse over a photo, its caption appears.
 
 
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/b10e9bbe-17a6-4bd3-896b-326b5ee23fc5" />
+<img width="575" height="837" alt="image" src="https://github.com/user-attachments/assets/10004d1e-1891-4d59-9e79-97bbc7dea00b" />
+
 
 
 ---
