@@ -11,9 +11,9 @@ I created a simple navigation bar with a logo and several links.
 The logo is on the left and the links are on the right.
 
 
-<img width="1200" height="176" alt="image" src="https://github.com/user-attachments/assets/d6bee25d-9630-48d5-b39b-efa4400052b1" />
-<img width="1883" height="772" alt="image" src="https://github.com/user-attachments/assets/b3862295-9511-42dd-aaa7-feab39dbb919" />
-<img width="422" height="312" alt="image" src="https://github.com/user-attachments/assets/b2447e6d-2e5a-4975-b60d-8b5d3b1c1579" />
+<img width="1100" height="176" alt="image" src="https://github.com/user-attachments/assets/d6bee25d-9630-48d5-b39b-efa4400052b1" />
+<img width="306" height="182" alt="image" src="https://github.com/user-attachments/assets/77699e80-215a-42d8-9c1c-62dfc73c42e4" />
+<img width="322" height="200" alt="image" src="https://github.com/user-attachments/assets/b2447e6d-2e5a-4975-b60d-8b5d3b1c1579" />
 
 ---
 
@@ -25,7 +25,7 @@ Each card has a picture, a title, a short description and a button.
 The cards are placed in one row and have the same height. I also added an effect when the mouse is placed over a card.
 
 <img width="1201" height="538" alt="image" src="https://github.com/user-attachments/assets/0bce959e-c4d1-4448-a669-f31bf9c7fc58" />
-<img width="906" height="797" alt="image" src="https://github.com/user-attachments/assets/f483e881-5083-4c17-ba57-1983a6770db5" />
+<img width="606" height="597" alt="image" src="https://github.com/user-attachments/assets/f483e881-5083-4c17-ba57-1983a6770db5" />
 <img width="367" height="665" alt="image" src="https://github.com/user-attachments/assets/c6b7381b-cd45-4301-acac-15c9cffc4b81" />
 
 ---
