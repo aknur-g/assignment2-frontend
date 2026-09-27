@@ -10,10 +10,10 @@
 I created a simple navigation bar with a logo and several links.  
 The logo is on the left and the links are on the right.
 
-**Screenshot:**
 
 <img width="1200" height="176" alt="image" src="https://github.com/user-attachments/assets/d6bee25d-9630-48d5-b39b-efa4400052b1" />
-
+<img width="1883" height="772" alt="image" src="https://github.com/user-attachments/assets/b3862295-9511-42dd-aaa7-feab39dbb919" />
+<img width="422" height="312" alt="image" src="https://github.com/user-attachments/assets/b2447e6d-2e5a-4975-b60d-8b5d3b1c1579" />
 
 ---
 
@@ -24,9 +24,9 @@ I created three cards about places I want to visit: France, Japan and Italy.
 Each card has a picture, a title, a short description and a button.  
 The cards are placed in one row and have the same height. I also added an effect when the mouse is placed over a card.
 
-**Screenshot:**
-
 <img width="1201" height="538" alt="image" src="https://github.com/user-attachments/assets/0bce959e-c4d1-4448-a669-f31bf9c7fc58" />
+<img width="906" height="797" alt="image" src="https://github.com/user-attachments/assets/f483e881-5083-4c17-ba57-1983a6770db5" />
+<img width="367" height="665" alt="image" src="https://github.com/user-attachments/assets/c6b7381b-cd45-4301-acac-15c9cffc4b81" />
 
 ---
 
@@ -35,7 +35,6 @@ The cards are placed in one row and have the same height. I also added an effect
 I created a page with a header, sidebar, main content and footer.  
 The sidebar is on the left and the main content is on the right.
 
-**Screenshot:**
 
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/a18348da-a67f-45c0-b4ca-296544b9a974" />
 
@@ -48,7 +47,6 @@ I created a gallery with nine photos.
 The photos are arranged in three columns with equal spaces between them.  
 When I move the mouse over a photo, its caption appears.
 
-**Screenshot:**
 
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/b10e9bbe-17a6-4bd3-896b-326b5ee23fc5" />
 
@@ -61,7 +59,6 @@ I created a simple portfolio page with a header, projects section, sidebar and f
 
 The projects are on the left and the information section is on the right. The page also has a navigation menu and project cards.
 
-**Screenshot:**
 
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/3da6779c-785f-4368-a2e9-160c9768ea02" />
 
